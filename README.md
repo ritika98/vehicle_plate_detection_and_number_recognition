@@ -24,6 +24,10 @@ __Activation of the environment:__
 		conda activate your_env_name
            
 Step 5: 
-__To use YOLOv3 detector script:__
-python yolov3_detector.py  --image media/test.jpg --yolo config/
+__To use YOLOv3 Detector script:__
+python yolov3_detector.py --image media/test.jpg --yolo config/
+
+Step 5: 
+__To use Number Plate Recogniser script:__
+python deep_text.py --image_folder yolov3_detected_cropped/ 
 
