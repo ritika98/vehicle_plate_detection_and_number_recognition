@@ -5,7 +5,7 @@
 
 Step 1:
 __Clone/Download the repository:__
-		git clone https://github.com/ritika98/vehicle_plate_detection_and_number_recognition.git
+git clone https://github.com/ritika98/vehicle_plate_detection_and_number_recognition.git
 
 Step 2:
 __Download weights of YOLOv3 for license plate detection and DeepText weights and put them inside the config folder:__
