@@ -25,5 +25,5 @@ __Activation of the environment:__
            
 Step 5: 
 __To use YOLOv3 detector script:__
-		python yolov3_detector.py
+python yolov3_detector.py  --image media/test.jpg --yolo config/
 
