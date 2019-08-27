@@ -1,1 +1,2 @@
-# vehicle_plate_detection_and_number_recognition
+# Vehicle plate detection using YOLOv3 and number recognition using DeepTEXT
+
