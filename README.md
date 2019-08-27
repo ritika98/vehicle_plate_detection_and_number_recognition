@@ -1,7 +1,10 @@
 # Vehicle plate detection using YOLOv3 and number recognition using DeepTEXT
 
+
+## Setup and Usage
+
 Step 1:
-__Download the repository:__
+__Clone/Download the repository:__
 		git clone https://github.com/ritika98/vehicle_plate_detection_and_number_recognition.git
 
 Step 2:
