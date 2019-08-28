@@ -26,6 +26,7 @@ __Activation of the environment:__
 Step 5: 
 __To use YOLOv3 Detector script:__
 Running yolo_detector will give the bounding boxes and the characters in recognized in the bounding boxes.
+
 python yolov3_detector.py --image media/test.jpg --yolo config/
 
 
