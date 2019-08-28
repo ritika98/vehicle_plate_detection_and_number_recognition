@@ -12,7 +12,7 @@ __Download weights of YOLOv3 for license plate detection and DeepText weights an
 https://drive.google.com/open?id=1kIxP8C_b978f3SRDgDiMwo99oH_zpTBK
 
 Step 3:
-__Go inside the downloaded repository:__
+__Go inside the cloned repository:__
 		cd vehicle_plate_detection_and_number_recognition/
 
 Step 2: 
